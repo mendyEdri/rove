@@ -55,6 +55,9 @@ import './tooltipService.js'
 // register onboarding service
 import './voidOnboardingService.js'
 
+// register Rove top panel
+import './roveTopPanelService.js'
+
 // register misc service
 import './miscWokrbenchContrib.js'
 
